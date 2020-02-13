@@ -1,0 +1,231 @@
+12-Feb-2020 13:41:39.143 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.31
+12-Feb-2020 13:41:39.147 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 5 2020 19:32:12 UTC
+12-Feb-2020 13:41:39.147 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.31.0
+12-Feb-2020 13:41:39.147 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+12-Feb-2020 13:41:39.147 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.3
+12-Feb-2020 13:41:39.148 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+12-Feb-2020 13:41:39.148 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home
+12-Feb-2020 13:41:39.148 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           12.0.2+10
+12-Feb-2020 13:41:39.148 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Feb-2020 13:41:39.148 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 13:41:39.148 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 13:41:39.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Feb-2020 13:41:39.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Feb-2020 13:41:39.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Feb-2020 13:41:39.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/conf/logging.properties
+12-Feb-2020 13:41:39.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Feb-2020 13:41:39.180 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Feb-2020 13:41:39.180 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Feb-2020 13:41:39.181 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+12-Feb-2020 13:41:39.181 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Feb-2020 13:41:39.181 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 13:41:39.182 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 13:41:39.182 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/temp
+12-Feb-2020 13:41:39.182 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/matthewscott/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+12-Feb-2020 13:41:39.520 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 13:41:39.577 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [669] milliseconds
+12-Feb-2020 13:41:39.650 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Feb-2020 13:41:39.650 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.31]
+12-Feb-2020 13:41:39.662 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/docs]
+12-Feb-2020 13:41:40.000 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/docs] has finished in [338] ms
+12-Feb-2020 13:41:40.001 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/manager]
+12-Feb-2020 13:41:40.055 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/manager] has finished in [52] ms
+12-Feb-2020 13:41:40.057 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/examples]
+12-Feb-2020 13:41:40.425 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/examples] has finished in [368] ms
+12-Feb-2020 13:41:40.425 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/ROOT]
+12-Feb-2020 13:41:40.450 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/ROOT] has finished in [25] ms
+12-Feb-2020 13:41:40.451 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/host-manager]
+12-Feb-2020 13:41:40.483 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/host-manager] has finished in [32] ms
+12-Feb-2020 13:41:40.494 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 13:41:40.507 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [929] milliseconds
+12-Feb-2020 13:47:35.161 INFO [http-nio-9999-exec-6] async.AsyncStockServlet.<init> AsyncStockServlet created
+12-Feb-2020 13:48:51.100 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 13:48:51.108 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+12-Feb-2020 13:48:51.163 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 13:48:51.167 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 13:52:50.632 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.31
+12-Feb-2020 13:52:50.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 5 2020 19:32:12 UTC
+12-Feb-2020 13:52:50.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.31.0
+12-Feb-2020 13:52:50.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+12-Feb-2020 13:52:50.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.3
+12-Feb-2020 13:52:50.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+12-Feb-2020 13:52:50.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home
+12-Feb-2020 13:52:50.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           12.0.2+10
+12-Feb-2020 13:52:50.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Feb-2020 13:52:50.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 13:52:50.638 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 13:52:50.664 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Feb-2020 13:52:50.665 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Feb-2020 13:52:50.665 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Feb-2020 13:52:50.665 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/conf/logging.properties
+12-Feb-2020 13:52:50.665 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Feb-2020 13:52:50.665 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Feb-2020 13:52:50.665 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Feb-2020 13:52:50.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+12-Feb-2020 13:52:50.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Feb-2020 13:52:50.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 13:52:50.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 13:52:50.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/temp
+12-Feb-2020 13:52:50.666 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/matthewscott/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+12-Feb-2020 13:52:50.980 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 13:52:51.023 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [595] milliseconds
+12-Feb-2020 13:52:51.098 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Feb-2020 13:52:51.098 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.31]
+12-Feb-2020 13:52:51.108 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/docs]
+12-Feb-2020 13:52:51.445 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/docs] has finished in [337] ms
+12-Feb-2020 13:52:51.445 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/manager]
+12-Feb-2020 13:52:51.505 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/manager] has finished in [60] ms
+12-Feb-2020 13:52:51.505 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/examples]
+12-Feb-2020 13:52:51.893 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/examples] has finished in [388] ms
+12-Feb-2020 13:52:51.894 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/ROOT]
+12-Feb-2020 13:52:51.922 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/ROOT] has finished in [27] ms
+12-Feb-2020 13:52:51.922 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/hello]
+12-Feb-2020 13:52:51.966 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/hello] has finished in [44] ms
+12-Feb-2020 13:52:51.966 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/host-manager]
+12-Feb-2020 13:52:52.000 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/host-manager] has finished in [34] ms
+12-Feb-2020 13:52:52.007 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 13:52:52.020 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [996] milliseconds
+12-Feb-2020 14:03:03.094 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 14:03:03.100 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+12-Feb-2020 14:03:03.189 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 14:03:03.200 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 14:03:06.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.31
+12-Feb-2020 14:03:06.587 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 5 2020 19:32:12 UTC
+12-Feb-2020 14:03:06.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.31.0
+12-Feb-2020 14:03:06.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+12-Feb-2020 14:03:06.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.3
+12-Feb-2020 14:03:06.591 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+12-Feb-2020 14:03:06.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home
+12-Feb-2020 14:03:06.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           12.0.2+10
+12-Feb-2020 14:03:06.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Feb-2020 14:03:06.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 14:03:06.593 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 14:03:06.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Feb-2020 14:03:06.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Feb-2020 14:03:06.620 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Feb-2020 14:03:06.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/conf/logging.properties
+12-Feb-2020 14:03:06.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Feb-2020 14:03:06.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Feb-2020 14:03:06.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Feb-2020 14:03:06.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+12-Feb-2020 14:03:06.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Feb-2020 14:03:06.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 14:03:06.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 14:03:06.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/temp
+12-Feb-2020 14:03:06.623 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/matthewscott/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+12-Feb-2020 14:03:06.939 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 14:03:06.996 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [628] milliseconds
+12-Feb-2020 14:03:07.064 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Feb-2020 14:03:07.064 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.31]
+12-Feb-2020 14:03:07.074 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/docs]
+12-Feb-2020 14:03:07.384 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/docs] has finished in [310] ms
+12-Feb-2020 14:03:07.386 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/manager]
+12-Feb-2020 14:03:07.435 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/manager] has finished in [50] ms
+12-Feb-2020 14:03:07.436 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/examples]
+12-Feb-2020 14:03:07.838 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/examples] has finished in [402] ms
+12-Feb-2020 14:03:07.839 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/ROOT]
+12-Feb-2020 14:03:07.864 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/ROOT] has finished in [25] ms
+12-Feb-2020 14:03:07.865 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/hello]
+12-Feb-2020 14:03:07.952 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/hello] has finished in [86] ms
+12-Feb-2020 14:03:07.952 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/host-manager]
+12-Feb-2020 14:03:07.992 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/host-manager] has finished in [40] ms
+12-Feb-2020 14:03:08.002 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 14:03:08.020 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1,023] milliseconds
+12-Feb-2020 15:39:51.566 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 15:39:51.572 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+12-Feb-2020 15:39:51.621 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 15:39:51.625 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 16:00:32.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.31
+12-Feb-2020 16:00:32.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 5 2020 19:32:12 UTC
+12-Feb-2020 16:00:32.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.31.0
+12-Feb-2020 16:00:32.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+12-Feb-2020 16:00:32.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.3
+12-Feb-2020 16:00:32.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+12-Feb-2020 16:00:32.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home
+12-Feb-2020 16:00:32.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           12.0.2+10
+12-Feb-2020 16:00:32.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Feb-2020 16:00:32.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 16:00:32.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 16:00:32.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Feb-2020 16:00:32.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Feb-2020 16:00:32.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Feb-2020 16:00:32.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/conf/logging.properties
+12-Feb-2020 16:00:32.419 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Feb-2020 16:00:32.419 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Feb-2020 16:00:32.419 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Feb-2020 16:00:32.419 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+12-Feb-2020 16:00:32.419 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Feb-2020 16:00:32.419 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 16:00:32.420 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 16:00:32.420 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/temp
+12-Feb-2020 16:00:32.420 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/matthewscott/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+12-Feb-2020 16:00:32.738 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 16:00:32.795 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [610] milliseconds
+12-Feb-2020 16:00:32.878 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Feb-2020 16:00:32.879 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.31]
+12-Feb-2020 16:00:32.892 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/docs]
+12-Feb-2020 16:00:33.233 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/docs] has finished in [340] ms
+12-Feb-2020 16:00:33.233 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/manager]
+12-Feb-2020 16:00:33.290 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/manager] has finished in [57] ms
+12-Feb-2020 16:00:33.291 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/examples]
+12-Feb-2020 16:00:33.692 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/examples] has finished in [401] ms
+12-Feb-2020 16:00:33.693 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/ROOT]
+12-Feb-2020 16:00:33.718 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/ROOT] has finished in [25] ms
+12-Feb-2020 16:00:33.718 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/hello]
+12-Feb-2020 16:00:33.765 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/hello] has finished in [47] ms
+12-Feb-2020 16:00:33.766 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/host-manager]
+12-Feb-2020 16:00:33.795 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/host-manager] has finished in [29] ms
+12-Feb-2020 16:00:33.805 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 16:00:33.823 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1,026] milliseconds
+12-Feb-2020 16:09:04.555 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 16:09:04.560 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+12-Feb-2020 16:09:04.622 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 16:09:04.651 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 16:09:06.853 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.31
+12-Feb-2020 16:09:06.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 5 2020 19:32:12 UTC
+12-Feb-2020 16:09:06.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.31.0
+12-Feb-2020 16:09:06.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+12-Feb-2020 16:09:06.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.3
+12-Feb-2020 16:09:06.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+12-Feb-2020 16:09:06.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home
+12-Feb-2020 16:09:06.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           12.0.2+10
+12-Feb-2020 16:09:06.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Feb-2020 16:09:06.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 16:09:06.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 16:09:06.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Feb-2020 16:09:06.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Feb-2020 16:09:06.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Feb-2020 16:09:06.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/conf/logging.properties
+12-Feb-2020 16:09:06.882 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Feb-2020 16:09:06.882 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Feb-2020 16:09:06.882 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Feb-2020 16:09:06.882 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+12-Feb-2020 16:09:06.882 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Feb-2020 16:09:06.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 16:09:06.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat
+12-Feb-2020 16:09:06.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/temp
+12-Feb-2020 16:09:06.883 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/matthewscott/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+12-Feb-2020 16:09:07.286 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 16:09:07.329 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [679] milliseconds
+12-Feb-2020 16:09:07.407 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Feb-2020 16:09:07.408 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.31]
+12-Feb-2020 16:09:07.416 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/docs]
+12-Feb-2020 16:09:08.183 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Feb-2020 16:09:08.233 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/docs] has finished in [817] ms
+12-Feb-2020 16:09:08.234 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/manager]
+12-Feb-2020 16:09:08.589 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Feb-2020 16:09:08.597 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/manager] has finished in [362] ms
+12-Feb-2020 16:09:08.597 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/examples]
+12-Feb-2020 16:09:09.170 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Feb-2020 16:09:09.196 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/examples] has finished in [599] ms
+12-Feb-2020 16:09:09.196 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/ROOT]
+12-Feb-2020 16:09:09.564 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Feb-2020 16:09:09.567 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/ROOT] has finished in [371] ms
+12-Feb-2020 16:09:09.568 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/hello]
+12-Feb-2020 16:09:09.945 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Feb-2020 16:09:09.956 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/hello] has finished in [387] ms
+12-Feb-2020 16:09:09.957 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/host-manager]
+12-Feb-2020 16:09:10.355 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Feb-2020 16:09:10.358 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/matthewscott/Projects/CMPE172/myWebProject/tomcat/webapps/host-manager] has finished in [400] ms
+12-Feb-2020 16:09:10.363 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9999"]
+12-Feb-2020 16:09:10.374 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3,043] milliseconds
